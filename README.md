@@ -9,7 +9,7 @@
 ### A MYSTERIOUS HACKER 😈
 ### I AM CONTINUING MY STUDIES 👨🏻‍💻👩🏻‍💻
 
-### 💬 LET US TALK ABOUT EVERYTHING [HERE](https://github.com/DXHM/DXHM/issues).
+### 💬 LET US TALK ABOUT EVERYTHING [HERE](https://github.com/DXHM/DXHM/issues). 🤤
 
 ### ![](https://visitor-badge.laobi.icu/badge?page_id=DXHM.DXHM)
 

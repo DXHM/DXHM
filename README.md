@@ -5,8 +5,9 @@
 <img align='right' src='https://github-readme-stats.vercel.app/api?username=DXHM&show_icons=true&&theme=default&hide=["contribs"]&&hide_title=true' /> 
 
 
-### HI, I AM [真のBLACK](https://dxhm.github.io)
-### A MYSTERIOUS HACKER IS CONTINUING MY STUDIES 😈
+### HI, I AM [真のBLACK](https://dxhm.github.io) ⚔
+### A MYSTERIOUS HACKER 😈
+### I AM CONTINUING MY STUDIES 👨🏻‍💻👩🏻‍💻
 
 ### 💬 LET US TALK ABOUT EVERYTHING [HERE](https://github.com/DXHM/DXHM/issues).
 

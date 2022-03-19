@@ -6,7 +6,7 @@
 
 
 ### HI, I AM [真のBLACK](https://dxhm.github.io)
-### A MYSTERIOUS HACKER 😈
+### A MYSTERIOUS HACKER IS CONTINUING MY STUDIES 😈
 
 ### 💬 LET US TALK ABOUT EVERYTHING [HERE](https://github.com/DXHM/DXHM/issues).
 

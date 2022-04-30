@@ -3,7 +3,7 @@
 
 
 <img align='right' src='https://github-readme-stats.vercel.app/api?username=DXHM&show_icons=true&&theme=default&hide=["contribs"]&&hide_title=true' /> 
-
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=DXHM" alt="DXHM" /></p>
 
 ## HI, I AM [真のBLACK](https://pureblack.eu.org) ⚔
 ### A MYSTERIOUS HACKER 😈

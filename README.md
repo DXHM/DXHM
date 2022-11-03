@@ -15,3 +15,4 @@
 
 
 ![Game[^1]](user.svg)
+![](https://raw.githubusercontent.com/DXHM/DXHM/main/assets/github-contribution-grid-snake.svg)

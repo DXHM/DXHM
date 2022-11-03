@@ -15,4 +15,4 @@
 
 
 
-![snake](https://raw.githubusercontent.com/DXHM/DXHM/main/assets/github-contribution-grid-snake.svg)
+![snake](https://raw.githubusercontent.com/DXHM/DXHM/main/github-contribution-grid-snake.svg)

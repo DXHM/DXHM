@@ -13,6 +13,6 @@
 
 ### ![](https://visitor-badge.laobi.icu/badge?page_id=DXHM.DXHM)
 
-![Ba1_Ma0](https://count.getloli.com/get/@dxhm)
+![Ba1_Ma0](https://count.getloli.com/get/@dxhm?theme=rule34)
 
 ![snake](https://raw.githubusercontent.com/DXHM/DXHM/main/ation/github-contribution-grid-snake.svg)

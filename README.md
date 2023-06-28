@@ -15,4 +15,6 @@
 
 ![dxhm](https://count.getloli.com/get/@dxhm?theme=rule34)
 
+![cup](https://github-profile-trophy.vercel.app/?username=dxhm&theme=dark_lover)
+
 ![snake](https://raw.githubusercontent.com/DXHM/DXHM/main/ation/github-contribution-grid-snake.svg)

@@ -19,6 +19,6 @@
 
 ### STUDYINNG | USING
 
-[![My Skills](https://skillicons.dev/icons?i=c,python,linux,markdown,java,js,html,css,github,arduino,vim,visualstudio,vscode,eclipse,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,python,linux,markdown,java,git,js,html,css,github,arduino,vim,visualstudio,vscode,eclipse,idea)](https://pureblack.eu.org/about)
 
 ![snake](https://raw.githubusercontent.com/DXHM/DXHM/main/ation/github-contribution-grid-snake.svg)

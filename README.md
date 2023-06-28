@@ -17,8 +17,8 @@
 
 ![cup](https://github-profile-trophy.vercel.app/?username=dxhm&theme=dark_lover)
 
-## STUDYINNG | USING
+### STUDYINNG | USING
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,python,linux,markdown,java,js,html,css,github,arduino,vim,visualstudio,vscode,eclipse,idea)](https://skillicons.dev)
 
 ![snake](https://raw.githubusercontent.com/DXHM/DXHM/main/ation/github-contribution-grid-snake.svg)

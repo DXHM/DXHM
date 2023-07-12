@@ -21,4 +21,12 @@
 
 [![My Skills](https://skillicons.dev/icons?i=c,python,linux,markdown,rust,java,git,js,html,css,github,arduino,vim,visualstudio,vscode,eclipse,idea)](https://pureblack.eu.org/about)
 
+```rust
+fn main() {
+  println!("# Hi there ! 👋");
+  println!("# This is PURE BLACK !");
+  println!("# Thanks for your follow !");
+}
+```
+
 ![snake](https://raw.githubusercontent.com/DXHM/DXHM/main/ation/github-contribution-grid-snake.svg)

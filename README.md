@@ -18,10 +18,10 @@
 
 ![dxhm](https://count.getloli.com/get/@dxhm?theme=rule34)
 ```
- ____  __  __  ____  ____    ____  __      __     ___  _  _ 
-(  _ \(  )(  )(  _ \( ___)  (  _ \(  )    /__\   / __)( )/ )
- )___/ )(__)(  )   / )__)    ) _ < )(__  /(__)\ ( (__  )  ( 
-(__)  (______)(_)\_)(____)  (____/(____)(__)(__) \___)(_)\_)
+888b. 8    8 888b. 8888    888b. 8       db    .d88b 8  dP 
+8  .8 8    8 8  .8 8www    8wwwP 8      dPYb   8P    8wdP  
+8wwP' 8b..d8 8wwK' 8       8   b 8     dPwwYb  8b    88Yb  
+8     `Y88P' 8  Yb 8888    888P' 8888 dP    Yb `Y88P 8  Yb                                                           
 ```
 ![cup](https://github-profile-trophy.vercel.app/?username=dxhm&theme=dark_lover)
 

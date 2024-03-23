@@ -13,17 +13,16 @@
 
 ### 💬 LET US TALK ABOUT EVERYTHING [HERE](https://github.com/DXHM/DXHM/issues). 🤤
 
+
+### ![](https://visitor-badge.laobi.icu/badge?page_id=DXHM.DXHM)
+
+![dxhm](https://count.getloli.com/get/@dxhm?theme=rule34)
 ```
  ____  __  __  ____  ____    ____  __      __     ___  _  _ 
 (  _ \(  )(  )(  _ \( ___)  (  _ \(  )    /__\   / __)( )/ )
  )___/ )(__)(  )   / )__)    ) _ < )(__  /(__)\ ( (__  )  ( 
 (__)  (______)(_)\_)(____)  (____/(____)(__)(__) \___)(_)\_)
 ```
-
-### ![](https://visitor-badge.laobi.icu/badge?page_id=DXHM.DXHM)
-
-![dxhm](https://count.getloli.com/get/@dxhm?theme=rule34)
-
 ![cup](https://github-profile-trophy.vercel.app/?username=dxhm&theme=dark_lover)
 
 ### STUDYINNG | USING

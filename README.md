@@ -36,6 +36,7 @@ fn black() {
   println!(" Thanks for your follow ! ");
 }
 ```
-### IF I CAN HELP YOU , PLEASE OFFER ME A COFFEE
-![tip](/wechattip.jpg)
+### IF I CAN HELP YOU , YOU CAN OFFER ME A COFFEE
+![tip](/tipcode.jpg)
+
 ![snake](https://raw.githubusercontent.com/DXHM/DXHM/main/ation/github-contribution-grid-snake.svg)

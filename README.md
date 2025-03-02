@@ -13,7 +13,7 @@
 
 ### 💬 LET US TALK ABOUT EVERYTHING [HERE](https://github.com/DXHM/DXHM/issues). 🤤
 
-### ⭐ Thanks for your follow ! 
+### ⭐ THANKS FOR YOUR FOLLOW !
 
 ### ![](https://visitor-badge.laobi.icu/badge?page_id=DXHM.DXHM)
 
